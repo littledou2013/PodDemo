@@ -1,0 +1,16 @@
+PODS:
+  - podDemo (0.1.0)
+
+DEPENDENCIES:
+  - podDemo (from `../`)
+
+EXTERNAL SOURCES:
+  podDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  podDemo: 84909f80c7bfda4fc5689ab9e0cb493e659d7d8a
+
+PODFILE CHECKSUM: f53ccb4db98f092dd90621fbebb10eb4a0235b37
+
+COCOAPODS: 1.3.1

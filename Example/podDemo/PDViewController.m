@@ -7,6 +7,7 @@
 //
 
 #import "PDViewController.h"
+#import "QTHomePagesViewController.h"
 
 @interface PDViewController ()
 
